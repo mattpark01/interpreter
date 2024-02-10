@@ -1,4 +1,3 @@
-```
 # Splang Interpreter
 
 A lightweight interpreter for the Splang Interpreter (SI) language.
